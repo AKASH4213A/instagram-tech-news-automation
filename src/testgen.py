@@ -1,4 +1,4 @@
-from carousel_generator import generate_carousel
+from src.carousel_generator import generate_carousel
 
 summary = """
 Headline: AWS Revenue Skyrockets
