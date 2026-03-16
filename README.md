@@ -27,3 +27,13 @@ News RSS → AI Summary → Carousel Text → Canva CSV → Canva Bulk Create �
 ## Status
 
 v1.0 – Content automation pipeline complete.
+
+## Setup
+
+Install Python dependencies:
+
+pip install -r requirements.txt
+
+Install Ollama and pull the model:
+
+ollama pull phi3
